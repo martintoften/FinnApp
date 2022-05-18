@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <!-- Texts -->
+    <string name="retry_button">Prøv igjen!</string>
+    <string name="retry_text">Ooops, det skjedde en feil. Prøv igjen!</string>
+    <string name="no_image">Ingen bilde</string>
+    <string name="no_price">Ingen pris</string>
+
+    <!-- Content descriptions -->
+    <string name="favorite_button_content_description">Favoritt knapp</string>
+    <string name="favorite_filter_content_description">Favoritt filtrering knapp</string>
+
+
+</resources>
